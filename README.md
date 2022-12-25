@@ -44,8 +44,18 @@ I'm a Master's student 🎓 in Saarland University, Germany 🇩🇪 and soon-to
  
  -->
 
+<table>
+ <tr>
+    <td>
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Chris10M&show_icons=true&theme=dark&count_private=true"/>
+    </td>
+    <td>
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris10M&theme=dark&langs_count=100&layout=compact&count_private=true"/>
+    </td>
+ </tr>
+</table>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Chris10M&count_private=true&theme=great-gatsby&show_icons=true)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Chris10M&count_private=true&theme=great-gatsby&show_icons=true) -->
 
 ![](https://komarev.com/ghpvc/?username=Chris10M&style=flat-square)
 
