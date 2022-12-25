@@ -65,7 +65,7 @@ Support me if possible :)
 
 [<img alt="Paypal" height="30px" src="https://user-images.githubusercontent.com/26912178/209461373-61e57c2e-c567-49b5-8aad-5102f45ae7bb.png"/>][mypaypal]
 
-[linkedin]: https://www.linkedin.com/in/christen-millerdurai-6a1b12136/
+[linkedin]: https://www.linkedin.com/in/christen-m-6a1b12136/
 [mypaypal]: https://paypal.me/iamchris10m?country.x=DE&locale.x=en_US 
 
 <!-- [twitter]: https://twitter.com/mnlpariente
