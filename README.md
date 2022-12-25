@@ -47,6 +47,8 @@ I'm a Master's student 🎓 in Saarland University, Germany 🇩🇪 and soon-to
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Chris10M&count_private=true&theme=great-gatsby&show_icons=true)
 
+![](https://komarev.com/ghpvc/?username=Chris10M&style=flat-square)
+
 </div>
 
 Support me if possible :)
