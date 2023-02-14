@@ -11,7 +11,7 @@
 I'm a Master's student 🎓 in Saarland University, Germany 🇩🇪 and soon-to-be Phd Student! :bulb:
 
 - :hammer_and_pick: Python / C++ / CUDA /Cython / Bash / Git / LaTeX / Markdown :hammer_and_pick:
-- :package: Building :fire: [Lip2Speech](https://github.com/Chris10M/Lip2Speech), :fire: [XtractWise](https://rapidapi.com/user/xtractwise) and more :package:
+- :package: Building :fire: [Lip2Speech](https://github.com/Chris10M/Lip2Speech) and more :package:
 - :pencil2: Linux & Bash & Windows & VSCode :pencil2:
 - :dart: Efficiency at work :dart:
 
